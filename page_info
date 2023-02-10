@@ -1,0 +1,14 @@
+#main
+
+
+/**
+ * 获取用户的文件
+ *
+ */
+public static void getFile(){
+   int code = buildCode();
+}
+
+private int buildCode(){
+   return hashCode();
+}
